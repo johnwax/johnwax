@@ -1,5 +1,3 @@
-#### &#x1f4c8; My GitHub Stats
-
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwax&show_icons=true&line_height=33&count_private=true&theme=dark" alt="johnwax's GitHub Stats" />
 </a>
